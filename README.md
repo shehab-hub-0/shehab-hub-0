@@ -1,33 +1,78 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
+<div align="center">
 
-<p>Welcome to my page!<br/> I'm <b>Shihab Eldin Ahmed Mowad</b>, an aspiring <b>Data Engineer</b> and <b>Data Analyst</b> based in <b>Egypt</b>. I'm passionate about data, problem-solving, and transforming raw numbers into meaningful insights.</p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
+<br />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
+<br/>
 
-<h3>Technologies I'm learning and working with</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="Google BigQuery" src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="/mnt/data/b71d13e3-e287-42b8-8f15-ea8d30004d97.png" width="150" alt="Shihab's profile image"/>
+
+### 👋 Hey there! I'm **Shihab Eldin Ahmed Mowad**
+
+🚀 I'm an aspiring **Data Engineer** and **Data Analyst** from **Egypt**.<br>
+🎯 I love working with data, building pipelines, and creating dashboards that tell stories.<br>
+📚 Currently expanding my knowledge in cloud computing, big data, and real-time data streaming.
+
+---
+
+### 🧰 Tools & Technologies
+
+#### 🛠 Languages, Libraries & Platforms
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white"/>
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-2E4E7E?style=flat&logo=python&logoColor=white"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
 </p>
 
-<h3>My Goals</h3>
-<ul>
-  <li>Master data engineering tools and pipelines</li>
-  <li>Build real-world projects using Python and SQL</li>
-  <li>Work with big data technologies like Hadoop and Spark</li>
-  <li>Create insightful dashboards and reports</li>
-</ul>
-
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+#### 📊 Visualization & BI Tools
+<p align="center">
+  <img alt="Power BI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 </p>
 
-<p align="center">Thanks for visiting! 🚀</p>
+#### ☁️ Cloud & Big Data
+<p align="center">
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-1A73E8?style=flat&logo=googlecloud&logoColor=white"/>
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
+  <img alt="Apache Spark" src="https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+  <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black"/>
+</p>
+
+#### ⚙️ Tools & Environments
+<p align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+### 📈 My Goals
+- 🔄 Build scalable data pipelines using Airflow and Spark  
+- 📊 Master business insights with Power BI and Tableau  
+- ☁️ Work with cloud-based data architecture (GCP, AWS)  
+- 🧠 Solve real-world problems using data  
+
+---
+
+### 🔗 Connect with Me
+
+<a href="https://www.linkedin.com/in/shehab-ahmed-793780343" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+<p align="center">
+<i>Thanks for visiting! Feel free to connect or collaborate.</i><br>
+<code>#DataEngineer #DataAnalyst #Python #SQL #GCP #Airflow</code>
+</p>
+
+</div>
