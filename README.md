@@ -5,7 +5,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
 <br/>
 
-<img src="/mnt/data/b71d13e3-e287-42b8-8f15-ea8d30004d97.png" width="150" alt="Shihab's profile image"/>
 
 ### 👋 Hey there! I'm **Shihab Eldin Ahmed Mowad**
 
