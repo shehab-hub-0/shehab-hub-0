@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Shihab Eldin Ahmed Mowad  
+# 🚀 Shehab Eldin Ahmed Mowad  
 ### 👨‍💻 **Data Engineer & Data Analyst**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-ahmed-793780343) 
