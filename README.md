@@ -34,33 +34,6 @@
 
 ---
 
-## 📈 GitHub Statistics  
-
-<div align="center">  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
-</div>  
-
----
-
-## 🏆 Certifications & Achievements  
-
-- Google Cloud Professional Data Engineer  
-- Microsoft Certified: Data Analyst Associate  
-- Apache Spark Developer  
-
----
-
-## 📝 Latest Blog Posts  
-
-- [Building Scalable Data Pipelines with Airflow](https://yourblog.com/pipeline-airflow)  
-- [Real-time Analytics with Kafka and Spark](https://yourblog.com/kafka-spark)  
-- [Data Visualization Best Practices](https://yourblog.com/viz-best-practices)  
-
----
-
 ## 🤝 Let's Collaborate!  
 
 Open to:  
