@@ -10,13 +10,6 @@
 
 ---
 
-## 📊 GitHub Statistics  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehab-hub-0&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehab-hub-0&layout=compact&theme=radical&hide_border=true)  
-
----
-
 ## 🛠️ Technical Stack  
 
 ### 💻 **Programming & Databases**
@@ -83,9 +76,7 @@
 
 ## 📚 Certifications & Learning  
 
-<img src="https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-4285F4?style=flat-square&logo=googlecloud"/>  
-<img src="https://img.shields.io/badge/Apache-Spark_Fundamentals-E25A1C?style=flat-square&logo=apachespark"/>  
-<img src="https://img.shields.io/badge/Data_Engineering-Specialization-0077B5?style=flat-square&logo=databricks"/>  
+<img src="https://img.shields.io/badge/Data_Engineer From DEPI-4285F4?style=flat-square&logo=googlecloud"/>  
 
 ---
 
