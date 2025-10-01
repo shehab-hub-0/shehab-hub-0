@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🚀 Shihab Eldin Ahmed Mowad  
-### **Data Engineer & Data Analyst** | مصر  
+### **Data Engineer & Data Analyst** 
 
-[LinkedIn](https://www.linkedin.com/in/shehab-ahmed-793780343) | [Email](mailto:your-email@domain.com) | [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/shehab-ahmed-793780343) | [Email](shahbahmed56p@gmail.com) | [Portfolio]([https://your-portfolio-link.com](https://shehab-hub-0.github.io/Shehab.github1.io/))
 
 ---
 
@@ -45,7 +45,7 @@ Open to:
 ---
 
 ### 📫 How to reach me  
-**Email:** your-email@domain.com  
+**Email:** shahbahmed56p@gmail.com  
 **LinkedIn:** [Shehab Ahmed](https://www.linkedin.com/in/shehab-ahmed-793780343)  
 
 ⭐ *"Turning data into decisions, one pipeline at a time"* ⭐  
