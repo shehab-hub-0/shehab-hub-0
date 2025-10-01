@@ -1,77 +1,103 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
-<br />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
-<br/>
+# 🚀 Shihab Eldin Ahmed Mowad
+### **Data Engineer & Data Analyst** | مصر
 
-
-### 👋 Hey there! I'm **Shihab Eldin Ahmed Mowad**
-
-🚀 I'm an aspiring **Data Engineer** and **Data Analyst** from **Egypt**.<br>
-🎯 I love working with data, building pipelines, and creating dashboards that tell stories.<br>
-📚 Currently expanding my knowledge in cloud computing, big data, and real-time data streaming.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shehab-ahmed-793780343)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@domain.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
 
 ---
 
-### 🧰 Tools & Technologies
+## 📊 Technical Stack
 
-#### 🛠 Languages, Libraries & Platforms
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white"/>
-  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-2E4E7E?style=flat&logo=python&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-</p>
+### **Programming & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### 📊 Visualization & BI Tools
-<p align="center">
-  <img alt="Power BI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-</p>
+### **Data Engineering**
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### ☁️ Cloud & Big Data
-<p align="center">
-  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-1A73E8?style=flat&logo=googlecloud&logoColor=white"/>
-  <img alt="Apache Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
-  <img alt="Apache Spark" src="https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
-  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
-  <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black"/>
-</p>
+### **Cloud & Big Data**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-#### ⚙️ Tools & Environments
-<p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-</p>
+### **Visualization & BI**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-### 📈 My Goals
-- 🔄 Build scalable data pipelines using Airflow and Spark  
-- 📊 Master business insights with Power BI and Tableau  
-- ☁️ Work with cloud-based data architecture (GCP, AWS)  
-- 🧠 Solve real-world problems using data  
+## 🎯 Featured Projects
+
+### 🔄 [Real-time Data Pipeline](https://github.com/yourusername/data-pipeline)
+*Real-time ETL pipeline using Kafka, Spark, and Airflow*
+- **Tech:** Python, Kafka, Spark, Airflow, Docker
+- **Features:** Real-time processing, Data validation, Monitoring
+
+### 📈 [Sales Analytics Dashboard](https://github.com/yourusername/sales-analytics)
+*Interactive Power BI dashboard for sales performance*
+- **Tech:** Power BI, SQL, DAX
+- **Features:** KPI tracking, Trend analysis, Forecasting
+
+### ☁️ [Cloud Data Warehouse](https://github.com/yourusername/cloud-dwh)
+*Data warehouse solution on Google Cloud Platform*
+- **Tech:** BigQuery, Dataflow, Cloud Functions
+- **Features:** Scalable architecture, Cost optimization
 
 ---
 
-### 🔗 Connect with Me
+## 📈 GitHub Statistics
 
-<a href="https://www.linkedin.com/in/shehab-ahmed-793780343" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+</div>
 
 ---
 
-<p align="center">
-<i>Thanks for visiting! Feel free to connect or collaborate.</i><br>
-<code>#DataEngineer #DataAnalyst #Python #SQL #GCP #Airflow</code>
-</p>
+## 🏆 Certifications & Achievements
 
+- [**Google Cloud Professional Data Engineer**]()
+- [**Microsoft Certified: Data Analyst Associate**]()
+- [**Apache Spark Developer**]()
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable Data Pipelines with Airflow](https://yourblog.com/pipeline-airflow)
+- [Real-time Analytics with Kafka and Spark](https://yourblog.com/kafka-spark)
+- [Data Visualization Best Practices](https://yourblog.com/viz-best-practices)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always open to:
+- 🎯 Data engineering projects
+- 📊 Data analysis challenges  
+- ☁️ Cloud data solutions
+- 🤖 Machine learning pipelines
+
+---
+
+<div align="center">
+
+### 📫 How to reach me:
+**Email:** your-email@domain.com  
+**LinkedIn:** [Shehab Ahmed](https://www.linkedin.com/in/shehab-ahmed-793780343)
+
+⭐ *"Turning data into decisions, one pipeline at a time"* ⭐
+
+</div>
 </div>
