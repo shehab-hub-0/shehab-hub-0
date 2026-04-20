@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=🚀+Data+Engineer+%7C+Pipeline+Architect;⚡+Building+Pipelines+That+Actually+Scale;🏗️+Medallion+Architecture+Expert;☁️+Azure+%7C+AWS+%7C+GCP+%7C+Databricks;🔄+Real-time+Streaming+with+Kafka+%2B+Spark" alt="Typing SVG" />
-</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=50&lines=Data+Engineer+%7C+Pipeline+Architect;Building+Pipelines+That+Actually+Scale;Medallion+Architecture+%7C+Real-time+Streaming;Azure+%7C+AWS+%7C+GCP+%7C+Databricks;Apache+Spark+%2B+Kafka+%2B+Airflow" alt="Typing SVG" />
+
 
 <br/><br/>
 
