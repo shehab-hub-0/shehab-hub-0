@@ -267,7 +267,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Open+to+collaborations+🤝;Freelance+Data+Engineering+Projects+🚀;Let%27s+build+something+great+together+⚡" alt="Connect Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Open+to+collaborations;Freelance+Data+Engineering+Projects;Let%27s+build+something+great+together" alt="Connect Typing" />
 
 <br/><br/>
 
@@ -280,6 +280,6 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=150&section=footer&text=Thanks+for+visiting!+⚡&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=150&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
 
 </div>
