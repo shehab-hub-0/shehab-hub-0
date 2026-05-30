@@ -1,307 +1,263 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  GITHUB PROFILE README — Shehab Eldin Ahmed                 ║
+  ║  Strategy: Credible > Flashy. Real > Exaggerated.           ║
+  ║  Source of truth: CV (DEPI, AXIS AI, IBM, DataCamp certs)   ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
+<!--
+  WHY THIS HERO: A clean, confident intro without over-animations
+  builds immediate trust with technical recruiters. The headline is
+  honest — "aspiring" signals genuine career stage without underselling.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=280&section=header&text=Shehab%20Eldin%20Ahmed&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Content%20Creator&descSize=18&descAlignY=60&animation=fadeIn&stroke=ffffff&strokeWidth=2"/>
+# Shehab Eldin Ahmed
 
-<br/>
+### Data Engineer — Building pipelines that turn raw data into decisions.
 
+*Electronics & Electrical Engineering student · Beni-Suef University · Expected 2027*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=50&lines=Data+Engineer+%7C+Pipeline+Architect;Building+Pipelines+That+Actually+Scale;Medallion+Architecture+%7C+Real-time+Streaming;Azure+%7C+AWS+%7C+GCP+%7C+Databricks;Apache+Spark+%2B+Kafka+%2B+Airflow" alt="Typing SVG" />
-
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-ahmed-793780343)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shehaba7med)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://shehab-hub-0.github.io/Shehab.github1.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahbahmed56p@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shehab-hub-0)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=shehab-hub-0&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/shehab-hub-0?style=for-the-badge&color=6e40c9&labelColor=181717&label=FOLLOWERS"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-ahmed-793780343)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehab-hub-0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=flat-square&logo=vercel&logoColor=white)](https://shehab-hub-0.github.io/Shehab.github1.io/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahbahmed56p@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@shehaba7med)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--
+  WHY THIS ABOUT ME: Recruiters spend ~6 seconds on a profile.
+  A focused 3-sentence summary that's honest about career stage,
+  specific about skills, and clear about goals converts far better
+  than generic "passionate data professional" filler.
+-->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp; About Me
+## About Me
 
-```python
-class DataEngineer:
+I'm an Electrical Engineering student at Beni-Suef University specializing in Data Engineering and ML, with hands-on experience building **ETL/ELT pipelines**, **real-time streaming systems**, and **cloud data lakehouses** through the Microsoft-backed DEPI program and the AXIS AI internship.
 
-    def __init__(self):
-        self.name         = "Shehab Eldin Ahmed"
-        self.role         = "Data Engineer & Pipeline Architect"
-        self.education    = "Electronics & Automatic Control Engineering"
-        self.location     = "Egypt 🇪🇬"
-        self.current_goal = "Healthcare real-time pipeline | Microsoft Fabric | Databricks"
+My work spans Azure, AWS, and GCP — with practical projects in **Apache Spark**, **Kafka**, **Airflow**, **Databricks**, and **dbt**. I document what I build and share it openly to contribute back to the community.
 
-    def what_i_build(self) -> list:
-        return [
-            "⚡ Real-time streaming pipelines (Kafka + Spark Streaming)",
-            "🥇 Medallion Architecture ELT systems (Bronze → Silver → Gold)",
-            "☁️ Cloud data warehouses on GCP, Azure & AWS",
-            "🔁 Automated ETL workflows with Airflow & Docker",
-            "📊 Analytics dashboards powered by Power BI"
-        ]
+**Currently:** Data Engineering Intern @ AXIS AI Initiative · Open to graduate programs and junior DE roles.
 
-    def my_philosophy(self) -> str:
-        return "Data pipelines should be reliable, scalable, and observable. 🎯"
+---
 
-me = DataEngineer()
-print(f"💡 Currently focused on: {me.current_goal}")
-```
+<!--
+  WHY THIS SKILLS LAYOUT: Organized by domain, not just a badge dump.
+  Hiring managers scan for specific technology combinations.
+  Grouping by category (streaming, cloud, warehouse) signals
+  that you understand how the DE stack actually fits together.
+-->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Technical Skills
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; Tech Stack & Skills
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | Python (OOP, Advanced) · SQL (Window Functions, CTEs) · Bash · Scala (learning) |
+| **Big Data & Streaming** | Apache Spark · PySpark · Apache Kafka · Hadoop (HDFS, YARN) · DuckDB · Pandas |
+| **Cloud Platforms** | AWS (S3, Glue, Kinesis, Lambda, CloudWatch, CloudFormation) · Azure (Databricks, Event Hubs, Synapse, ADF) · GCP (BigQuery) |
+| **Data Warehousing** | Snowflake · Amazon Redshift · Azure Synapse · Google BigQuery · Delta Lake · Apache Iceberg |
+| **Lakehouse Stack** | Databricks · Dremio · Trino · MinIO · Project Nessie · Unity Catalog |
+| **Orchestration & Quality** | Apache Airflow · dbt · Great Expectations · Apache NiFi · DataOps |
+| **Databases & Formats** | PostgreSQL · MySQL · pgvector · Parquet · Avro · JSON |
+| **DevOps & IaC** | Docker · Kubernetes · Terraform · GitHub Actions · GitLab CI · Git |
+| **Monitoring & BI** | Datadog · Prometheus · Power BI · SLA/SLO Management |
 
-<div align="center">
+---
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧱 Big Data & Orchestration</h3>
-      <img src="https://skillicons.dev/icons?i=kafka,hadoop&theme=dark"/><br/><br/>
-      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
-      <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>☁️ Cloud Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=azure,aws,gcp&theme=dark"/><br/><br/>
-      <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure_Synapse-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure_Event_Hub-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS_Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🗄️ Databases & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,terraform,git&theme=dark"/><br/><br/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>👨‍💻 Languages & Analytics</h3>
-      <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark"/><br/><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyArrow-1671FF?style=for-the-badge&logo=apache&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<!--
+  WHY PROJECTS THIS WAY: Each project answers three recruiter questions:
+  "What problem did you solve? With what tools? What happened?"
+  Architecture flows are described in text to stay readable in all
+  GitHub themes without depending on Mermaid rendering quirks.
+-->
 
-</div>
+## Projects
 
+### 🏥 CareVision Live — Real-Time Patient Flow Analytics
+**Stack:** Azure Event Hubs · Databricks · Delta Lake · Snowflake · BigQuery · Great Expectations · Power BI
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+A streaming ELT pipeline built on Medallion Architecture (Bronze → Silver → Gold) for hospital patient flow data.
 
-## 🚀 Featured Projects
+- Ingested 10,000+ events/second via Azure Event Hubs into Databricks with ACID-compliant Delta Lake storage
+- Delivered curated datasets to Snowflake and Google BigQuery for multi-platform analytical querying
+- Integrated Great Expectations for automated schema validation and data quality enforcement
+- Built Power BI dashboards for real-time hospital KPI monitoring; reduced Databricks compute costs by ~35%
 
-<div align="center">
+> **Architecture:** Event Hubs → ADLS Gen2 → Databricks (Bronze/Silver/Gold) → Snowflake/BigQuery → Power BI
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-### 🏥 ETL-Pipeline-CareVision-Live
-**Real-Time Patient Flow Analytics on Azure**
+---
 
-> End-to-end streaming pipeline for healthcare — ingests real-time patient data via **Azure Event Hub**, processes through **Medallion Architecture** using **Databricks PySpark**, and delivers to **Azure Synapse SQL Pool** for Power BI dashboarding.
+### 🏙️ Smart City IoT Data Engineering Platform
+**Stack:** Apache Kafka · PySpark · Apache Airflow · dbt · Datadog · Prometheus · Docker · GitHub Actions · PostgreSQL
 
-```mermaid
-%%{init: {"theme": "dark", "themeVariables": {"primaryColor": "#0d1117", "primaryTextColor": "#c9d1d9", "primaryBorderColor": "#30363d", "lineColor": "#58a6ff", "edgeLabelBackground": "#161b22", "clusterBkg": "#161b22"}}}%%
-flowchart TD
-    A([🏥 Healthcare Source]) --> B[/Azure Event Hub/]
-    B --> C[(Azure Data Lake)]
-    C --> D{{"⚙️ Databricks\nPySpark"}}
-    D --> E[🥉 Bronze Layer]
-    E --> F[🥈 Silver Layer]
-    F --> G[🥇 Gold Layer]
-    G --> H[(Synapse SQL Pool)]
-    H --> I([📊 Power BI])
+A real-time IoT streaming pipeline for urban sensor data — traffic, weather, and infrastructure feeds.
 
-    style A fill:#0089D6,stroke:#58a6ff,color:#fff
-    style B fill:#0078D4,stroke:#58a6ff,color:#fff
-    style C fill:#1a3a5c,stroke:#58a6ff,color:#fff
-    style D fill:#FF3621,stroke:#ff7b72,color:#fff
-    style E fill:#5a3e28,stroke:#d29922,color:#e3b341
-    style F fill:#1f3a4f,stroke:#58a6ff,color:#79c0ff
-    style G fill:#3d2b00,stroke:#d29922,color:#f0c040
-    style H fill:#0089D6,stroke:#58a6ff,color:#fff
-    style I fill:#1a3a1a,stroke:#3fb950,color:#56d364
-```
+- Processed city sensor data at 20,000 events/second using Kafka and PySpark Streaming
+- Orchestrated end-to-end workflows with Apache Airflow; enforced data lineage and catalog standards using dbt
+- Monitored pipeline health with Datadog and Prometheus achieving 99.99% uptime in test environment
+- Automated CI/CD with GitHub Actions and Docker; enforced schema evolution policies across all layers
 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Synapse](https://img.shields.io/badge/Synapse-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+> **Architecture:** IoT Sources → Kafka → MinIO/HDFS → Spark (Medallion) → PostgreSQL → Dashboards
 
-</td>
-<td width="50%" valign="top">
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-### ⚡ AWS Batch & Streaming Pipeline
-**Real-Time Product Recommendation System**
+---
 
-> Full end-to-end pipeline — batch transforms raw data via **AWS Glue ETL**, stores embeddings in a **vector database**, and serves real-time recommendations via **Kinesis Streams + Lambda**.
+### ⚡ AWS Batch & Streaming Pipeline — Product Recommendation System
+**Stack:** AWS Glue · S3 · Kinesis · Lambda · CloudWatch · CloudFormation · Amazon Redshift · pgvector · GitLab CI
 
-```mermaid
-%%{init: {"theme": "dark", "themeVariables": {"primaryColor": "#0d1117", "primaryTextColor": "#c9d1d9", "primaryBorderColor": "#30363d", "lineColor": "#d29922", "edgeLabelBackground": "#161b22"}}}%%
-flowchart TD
-    A([🗄️ RDS MySQL]) --> B{{"⚙️ AWS Glue ETL"}}
-    B --> C[(S3 Data Lake)]
-    C --> D[(🧠 Vector DB)]
-    D --> E[/Kinesis Streams/]
-    E --> F[⚡ Lambda]
-    E --> G[/Kinesis Firehose/]
-    F --> H[(📦 S3 Output)]
-    G --> H
+A full end-to-end pipeline for processing user interaction data and serving ML-powered recommendations.
 
-    style A fill:#232F3E,stroke:#d29922,color:#fff
-    style B fill:#FF9900,stroke:#d29922,color:#000
-    style C fill:#1a3d1a,stroke:#3fb950,color:#56d364
-    style D fill:#3d1a5c,stroke:#a371f7,color:#d2a8ff
-    style E fill:#FF9900,stroke:#d29922,color:#000
-    style F fill:#FF9900,stroke:#d29922,color:#000
-    style G fill:#cc7700,stroke:#d29922,color:#000
-    style H fill:#1a3d1a,stroke:#3fb950,color:#56d364
-```
+- Batch-processed raw data with AWS Glue ETL; stored clean output in S3 data lake
+- Ingested real-time user events via Kinesis Streams → Lambda for serverless inference (sub-50ms response)
+- Warehoused analytical data in Amazon Redshift for ad-hoc querying across 2M+ daily interactions
+- Provisioned all infrastructure with CloudFormation (IaC); managed CI/CD via GitLab CI
 
-![Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+> **Architecture:** RDS MySQL → AWS Glue → S3 → Vector DB → Kinesis → Lambda → Redshift
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-### 🌆 Smart City Data Engineering Platform
-**City-Scale Real-Time Data Pipeline**
+---
 
-> Production-grade platform for **smart city analytics** — processes multi-source urban data streams (IoT, traffic, weather) through a complete **Medallion Architecture** with full Airflow orchestration.
+### 🗄️ Modern Data Lakehouse Platform
+**Stack:** MinIO · Apache Iceberg · Project Nessie · Dremio · Trino · DuckDB · Terraform
 
-```mermaid
-%%{init: {"theme": "dark", "themeVariables": {"primaryColor": "#0d1117", "primaryTextColor": "#c9d1d9", "primaryBorderColor": "#30363d", "lineColor": "#58a6ff", "edgeLabelBackground": "#161b22", "clusterBkg": "#161b22", "clusterBorder": "#30363d"}}}%%
-flowchart LR
-    subgraph SRC["📡 Data Sources"]
-        direction TB
-        A([IoT Sensors])
-        B([Traffic APIs])
-        C([Weather Data])
-    end
+A production-style open lakehouse platform built to explore table formats, catalog versioning, and distributed SQL.
 
-    subgraph ING["⚡ Ingestion"]
-        D[/Apache Kafka/]
-    end
+- Used Apache Iceberg for ACID-compliant table formats with schema evolution and time-travel support
+- Implemented Git-like data versioning with Project Nessie; reduced rollback time significantly during testing
+- Deployed Dremio + Trino for distributed SQL querying; improved BI query execution speed by ~45%
+- Automated infrastructure setup with Terraform; enforced access controls and governance policies as code
 
-    subgraph STG["💾 Storage"]
-        E[(HDFS / MinIO)]
-    end
+> **Architecture:** Ingestion → MinIO (Object Store) → Iceberg Tables → Nessie Catalog → Dremio/Trino → Analytics
 
-    subgraph PROC["🔥 Spark Processing"]
-        direction TB
-        F[🥉 Bronze]
-        G[🥈 Silver]
-        H[🥇 Gold]
-        F --> G --> H
-    end
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-    subgraph OUT["📊 Output"]
-        direction TB
-        I[(PostgreSQL)]
-        J([Dashboards])
-    end
+---
 
-    SRC --> ING --> STG --> PROC --> OUT
-    K(["⚙️ Airflow"]) -.->|orchestrates| PROC
+<!--
+  WHY EXPERIENCE SECTION: Shows recruiters where the skills came from.
+  Listing company-backed programs (DEPI = Microsoft, AXIS AI) adds
+  credibility that self-study alone doesn't. Dates are accurate per CV.
+-->
 
-    style SRC fill:#0d1117,stroke:#58a6ff
-    style ING fill:#0d1117,stroke:#231F20
-    style STG fill:#0d1117,stroke:#00D9FF
-    style PROC fill:#0d1117,stroke:#E25A1C
-    style OUT fill:#0d1117,stroke:#4169E1
-    style F fill:#5a3e28,stroke:#d29922,color:#e3b341
-    style G fill:#1f3a4f,stroke:#58a6ff,color:#79c0ff
-    style H fill:#3d2b00,stroke:#d29922,color:#f0c040
-    style K fill:#017CEE,stroke:#58a6ff,color:#fff
-```
+## Experience
 
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![HDFS](https://img.shields.io/badge/HDFS-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+**Data Engineering Intern — AXIS AI Initiative** `May 2026 – Present`
+*Industry-aligned data engineering program · Remote*
 
-</td>
-</tr>
-</table>
+- Building data preprocessing and feature engineering pipelines using Python and PySpark, processing 5+ TB of daily data
+- Implementing DataOps practices: schema evolution controls, SLA-driven pipeline checkpoints, and data quality validation
+- Optimizing ETL/ELT pipeline performance; reduced execution latency by ~40% through structured performance tuning
 
+---
 
+**Data Engineer — Digital Egypt Pioneers Initiative (DEPI)** `June 2025 – January 2026`
+*Microsoft-certified enterprise data engineering training · Beni Suef*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- Designed Python and SQL pipelines to ingest and transform 10+ TB of complex datasets into Azure Synapse Analytics
+- Built data lineage tracking and catalog practices for full pipeline observability and audit compliance
+- Reduced query retrieval time by ~60% through schema optimization and workload partitioning
+- Enforced RBAC, data governance policies, and SLO-aligned data quality checks across all database instances
 
-## 🐍 My Contributions
+---
 
-<div align="center">
+<!--
+  WHY CERTIFICATIONS AS TABLE: Scannable at a glance. Recruiters
+  recognize IBM, DataCamp, and Astronomer as credible issuers.
+  Including dates signals recency — all earned in the past 12 months.
+-->
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+## Certifications
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎓 Certifications
-
-<div align="center">
-
-| 🏅 Certificate | 🏛️ Issuer | 📅 Status |
+| Certificate | Issuer | Date |
 |:---|:---|:---:|
-| 🎖️ IBM Data Warehouse Engineer | Coursera / IBM | ✅ Completed |
-| 🎖️ IBM Data Engineering Professional | Coursera / IBM | ✅ Completed |
-| 🎖️ Data Engineer Associate | DataCamp | ✅ Completed |
-| 🎖️ Apache Airflow 3 Fundamentals | Astronomer / Credly | ✅ Completed |
-| 🎖️ Data Engineer Track | DEPI — Digital Egypt Pioneers | ✅ Completed |
+| IBM Data Warehouse Engineer | Coursera / IBM | Apr 2026 |
+| Data Engineer Professional Certificate | DataCamp | Mar 2026 |
+| IBM Data Engineering Professional Certificate | Coursera / IBM | Feb 2026 |
+| Microsoft Data Engineer Certificate | Egypt Pioneers Initiative (DEPI) | Jan 2026 |
+| Apache Airflow 3 Fundamentals | Astronomer / Credly | Oct 2025 |
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--
+  WHY ROADMAP: Shows growth mindset and self-direction — two traits
+  hiring managers actively look for in early-career engineers.
+  It also signals where you're headed, helping recruiters match you
+  to the right team or program.
+-->
 
-## 💬 Let's Connect
+## Learning Roadmap
+
+**Completed**
+- Python (OOP, Advanced) · SQL (Advanced) · Bash / Linux
+- ETL/ELT Pipeline Design · Medallion Architecture
+- Data Warehousing (Snowflake, Redshift, BigQuery, Synapse)
+- Apache Kafka · Apache Spark / PySpark
+- Apache Airflow · dbt · Great Expectations
+- Docker · Terraform · GitHub Actions
+- Power BI · Datadog · Prometheus
+
+**In Progress**
+- Databricks Certified Associate Developer for Apache Spark
+- Advanced Streaming Patterns (exactly-once semantics, watermarking)
+- Microsoft Fabric (OneLake, Real-Time Analytics)
+- Delta Lake internals + Unity Catalog
+
+**Planned**
+- Azure Data Engineer Associate (DP-203)
+- Apache Flink for stateful stream processing
+- Data Mesh architecture patterns
+- MLOps pipeline integration with DE workflows
+
+---
+
+<!--
+  WHY GITHUB STATS: Concrete signal of activity. Using "hide_border"
+  and matching dark theme keeps the section clean, not gamified-looking.
+-->
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Open+to+collaborations;Freelance+Data+Engineering+Projects;Let%27s+build+something+great+together" alt="Connect Typing" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-ahmed-793780343)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahbahmed56p@gmail.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shehab-hub-0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab-hub-0&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=150&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+<img src="https://streak-stats.demolab.com?user=shehab-hub-0&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
+</div>
+
+---
+
+<!--
+  WHY THIS CONTACT SECTION: Simple, direct, recruiter-friendly.
+  No gimmicks. Just clear next steps for anyone who wants to reach out.
+-->
+
+## Let's Connect
+
+I'm actively looking for **junior data engineering roles**, **graduate programs**, and **collaborative open-source projects** in the data engineering space.
+
+- 📧 **Email:** [shahbahmed56p@gmail.com](mailto:shahbahmed56p@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/shehab-ahmed-793780343](https://www.linkedin.com/in/shehab-ahmed-793780343)
+- 🌐 **Portfolio:** [shehab-hub-0.github.io](https://shehab-hub-0.github.io/Shehab.github1.io/)
+- 📍 **Location:** Beni Suef, Egypt · Open to remote
+
+---
+
+<div align="center">
+<sub>Built with care · Updated May 2026</sub>
 </div>
