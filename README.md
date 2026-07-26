@@ -1,774 +1,486 @@
-<!-- ============================================================
-     SHEHAB ELDIN AHMED — GitHub Profile README
-     Design: Futuristic Data Engineering · Deep Navy + Cyan/Electric Blue
-     Strategy: WOW in 5 seconds · Honest · Recruiter-Optimized
-     ============================================================ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗
+     ║  SHEHAB ELDIN AHMED — Data Engineer Profile README              ║
+     ║  Design: Midnight Gradient · Cyan Accent · Recruiter-First      ║
+     ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ░░░ HERO BANNER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:0d2847,100:00d4ff&height=220&section=header&text=&fontSize=1" width="100%"/>
+
+<!-- ═══════════ IDENTITY BLOCK ═══════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d1117,10,0a192f,50,0d2137,100,061020&height=300&section=header&text=Shehab%20Eldin%20Ahmed&fontSize=52&fontColor=00d4ff&fontAlignY=42&desc=Data%20Engineer%20%E2%80%94%20Pipelines%20%C2%B7%20Lakehouse%20%C2%B7%20Cloud%20%C2%B7%20Streaming&descSize=17&descAlignY=62&descColor=7eb8d4&stroke=00d4ff&strokeWidth=1&animation=fadeIn" width="100%"/>
+<a href="https://github.com/shehab-hub-0">
+  <img src="myphoto.png" width="150" height="150" alt="Shehab Eldin Ahmed" style="border-radius:50%"/>
+</a>
+
+<br/>
+
+# Shehab Eldin Ahmed
+
+**`Data Engineer · Cloud Pipeline Architect · Big Data Developer`**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=28&lines=I+build+production-grade+pipelines+that+process+millions+of+events+per+second." alt="Tagline" />
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Data_Engineering_Roles-00d4ff?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-shehab--eldinahmed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-eldinahmed/)
+[![Gmail](https://img.shields.io/badge/-shahbahmed56p@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shahbahmed56p@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6e40c9?style=flat&logo=vercel&logoColor=white)](https://shehab-hub-0.github.io/Shehab.github1.io/)
+[![YouTube](https://img.shields.io/badge/-Schema_بالعربي-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@SchemaBilArabi)
+[![GitHub](https://img.shields.io/badge/-shehab--hub--0-181717?style=flat&logo=github&logoColor=white)](https://github.com/shehab-hub-0)
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=shehab-hub-0&style=flat-square&color=0d1117&label=Profile+Views)&nbsp;
+![Followers](https://img.shields.io/github/followers/shehab-hub-0?label=Followers&style=flat-square&color=0d1117&labelColor=0d1117)
 
 </div>
 
-<!-- ░░░ TYPING HEADLINE ░░░ -->
+<br/>
+
+---
+
+<!-- ═══════════ QUICK FACTS ═══════════ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&height=44&lines=Transforming+Raw+Data+Into+Intelligent+Systems;ETL+%C2%B7+ELT+%C2%B7+Medallion+Architecture+%C2%B7+Real-Time+Streaming;Azure+%C2%B7+AWS+%C2%B7+GCP+%C2%B7+Databricks+%C2%B7+Apache+Spark;Open+to+Graduate+Programs+%26+Junior+DE+Roles" alt="Typing SVG" />
+| 🏗️ **5+ Production Pipelines** | ☁️ **AWS · Azure · GCP** | 🏅 **7 Verified Certifications** | 🎙️ **YouTube Educator** |
+|:---:|:---:|:---:|:---:|
+| CDC · Streaming · Lakehouse | Multi-Cloud Architectures | IBM · Google · DataCamp · MSFT | [Schema بالعربي](https://www.youtube.com/@SchemaBilArabi) |
 
 </div>
 
 <br/>
 
-<!-- ░░░ SOCIAL BUTTONS ░░░ -->
-<div align="center">
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-ahmed-793780343)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shehab-hub-0)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://shehab-hub-0.github.io/Shehab.github1.io/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahbahmed56p@gmail.com)&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shehaba7med)
+<!-- ═══════════ §1 WHO I AM ═══════════ -->
 
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=shehab-hub-0&style=flat-square&color=00d4ff&label=PROFILE+VIEWS)&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/shehab-hub-0?style=flat-square&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
-
-</div>
-
-<br/>
-
-<!-- ░░░ GLOWING DIVIDER ░░░ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
-
-<!-- ================================================================
-     §1  ABOUT ME — Developer Card
-     WHY: Structured cards > walls of text. Recruiter reads in 6s.
-     ================================================================ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"/> &nbsp;About Me
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
+  &nbsp;Who I Am
+</h2>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ```yaml
-# whoami
-name        : "Shehab Eldin Ahmed"
-role        : "Aspiring Data Engineer"
-status      : "Intern @ AXIS AI Initiative (May 2026)"
-education   :
-  degree    : "B.Tech — Electrical & Electronics Engineering"
-  school    : "Beni-Suef University, Egypt"
-  expected  : "August 2027"
-  focus     : "Data Engineering & Machine Learning"
-location    : "Beni Suef, Egypt 🇪🇬"
-languages   : ["Arabic (Native)", "English (Professional)"]
+name       : Shehab Eldin Ahmed Moawed
+location   : Beni Suef, Egypt 🇪🇬
+phone      : +20 101 145 7319
+languages  : [Arabic (Native), English (Professional)]
 
-current_stack :
-  - "Azure · AWS · GCP"
-  - "Apache Spark + Kafka + Airflow"
-  - "Databricks · Delta Lake · Snowflake"
-  - "dbt · Great Expectations · Terraform"
+education:
+  - B.Tech · Industrial Control & Electronics
+    Beni-Suef University — Expected Aug 2027
+  - B.S. · Computer Science
+    University of the People — 2026–Present
 
-open_to     :
-  - "Junior Data Engineering Roles"
-  - "Graduate Programs"
-  - "Open-Source Collaboration"
+currently:
+  - AWS ML Engineer Trainee @ DEPI
+  - Data Science Intern @ AXIS AI Initiative
+
+open_to:
+  - Junior / Mid Data Engineering Roles
+  - Graduate Programs & Research
+  - Open-Source Collaboration
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
-**🎯 Career Objective**
+### 🧭 &nbsp;What I Do
 
-Building a career at the intersection of **data infrastructure** and **cloud engineering** — designing pipelines that are reliable, scalable, and observable from day one.
+I design and operate **end-to-end data pipelines** — from raw event ingestion to clean analytical assets — across cloud and open-source stacks.
 
-<br/>
+My work spans **real-time CDC and streaming** (Kafka, Spark Streaming, Debezium), **Medallion Lakehouse architectures** (Delta Lake, Iceberg), and **cloud-native orchestration** (Airflow, dbt) on AWS, Azure, and GCP.
 
-**🔭 Current Focus**
-- Healthcare real-time streaming pipeline
-- Databricks Spark certification prep
-- Microsoft Fabric / OneLake deep-dive
+### 💬 &nbsp;Philosophy
 
-<br/>
+> *"Good data engineering is invisible. The pipeline runs, the data is accurate, and nobody has to think about it."*
 
-**💡 What Drives Me**
+### 🎙️ &nbsp;Content Creator
 
-> *"A well-built data pipeline is invisible — it just works, at any scale, every time."*
-
-<br/>
-
-**📚 Relevant Coursework**
-
-Distributed Systems · Advanced Database Management · Cloud Data Architecture · Machine Learning · Deep Learning · RAG Systems
+I run **[Schema بالعربي](https://www.youtube.com/@SchemaBilArabi)** — an Arabic YouTube channel breaking down Spark internals, Lakehouse patterns, and real-world DE project walkthroughs.
 
 </td>
 </tr>
 </table>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-<br/>
 
-<!-- ================================================================
-     §2  TECHNICAL SKILLS — Premium Matrix
-     WHY: Domain-grouped skills show architectural understanding.
-     ================================================================ -->
+---
 
-## ⚡ Technical Skills
+<!-- ═══════════ §2 TECH STACK ═══════════ -->
+
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-<!-- Row 1 -->
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🔁 &nbsp;Data Engineering**
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-728E9B?style=flat-square&logo=apache&logoColor=white)
-![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
-![Apache Iceberg](https://img.shields.io/badge/Iceberg-0077B5?style=flat-square&logo=apache&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**☁️ &nbsp;Cloud Platforms**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Event Hubs](https://img.shields.io/badge/Event_Hubs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**🗄️ &nbsp;Data Warehouses**
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![Synapse Analytics](https://img.shields.io/badge/Synapse-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Dremio](https://img.shields.io/badge/Dremio-2DCDE4?style=flat-square&logo=dremio&logoColor=white)
-![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**💻 &nbsp;Languages & DBs**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-**🛠️ &nbsp;DevOps & IaC**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Project Nessie](https://img.shields.io/badge/Nessie-0d47a1?style=flat-square&logo=apache&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**📊 &nbsp;Monitoring & BI**
-
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SLA/SLO](https://img.shields.io/badge/SLA%2FSLO_Mgmt-00d4ff?style=flat-square&logo=checkmarx&logoColor=black)
-
-</td>
-<td align="center" width="25%">
-
-**📦 &nbsp;Formats & Catalog**
-
-![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white)
-![Avro](https://img.shields.io/badge/Avro-EE0000?style=flat-square&logo=apache&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PyArrow](https://img.shields.io/badge/PyArrow-1671FF?style=flat-square&logo=apache&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**🧠 &nbsp;Concepts**
-
-![Medallion Architecture](https://img.shields.io/badge/Medallion_Arch-gold?style=flat-square&logoColor=black)
-![DataOps](https://img.shields.io/badge/DataOps-00d4ff?style=flat-square&logoColor=black)
-![Schema Evolution](https://img.shields.io/badge/Schema_Evolution-7B42BC?style=flat-square&logoColor=white)
-![Data Lineage](https://img.shields.io/badge/Data_Lineage-17A589?style=flat-square&logoColor=white)
-![Data Governance](https://img.shields.io/badge/Data_Governance-E74C3C?style=flat-square&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-2C3E50?style=flat-square&logoColor=white)
-![ACID](https://img.shields.io/badge/ACID_Transactions-27AE60?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-</table>
+| Domain | Technologies |
+|:---|:---|
+| **Data Engineering** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Debezium](https://img.shields.io/badge/Debezium-A80000?style=flat-square&logo=apache&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white) ![Iceberg](https://img.shields.io/badge/Iceberg-0077B5?style=flat-square&logo=apache&logoColor=white) ![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=flat-square&logo=python&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Synapse](https://img.shields.io/badge/Synapse-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Event Hubs](https://img.shields.io/badge/Event_Hubs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Storage & Warehouses** | ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFC800?style=flat-square&logo=clickhouse&logoColor=black) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white) ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) |
+| **Languages & DBs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **DevOps & IaC** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Visualization** | ![Superset](https://img.shields.io/badge/Superset-00A699?style=flat-square&logo=apache&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
 
 </div>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-<br/>
 
-<!-- ================================================================
-     §3  EXPERIENCE
-     WHY: Shows WHERE skills came from — company-backed programs add
-     credibility that self-study alone cannot.
-     ================================================================ -->
+---
 
-## 🏢 Experience
+<!-- ═══════════ §3 EXPERIENCE ═══════════ -->
 
-<table>
-<tr>
-<td width="4px" bgcolor="#00d4ff"></td>
-<td>
+## 📋 &nbsp;Experience
 
-**Data Engineering Intern — AXIS AI Initiative** &nbsp;`May 2026 – Present`<br/>
-*Industry-Aligned Data Engineering Program · Remote, Egypt*
+> 🟠 **AWS ML Engineer Trainee** — DEPI &nbsp;`Jul 2026 – Present`
+>
+> Completed AWS Academy tracks (Data Engineering, ML, NLP, GenAI). Built a Capstone integrating ML pipelines with cloud data architectures. Mastered Prompt Engineering for cloud-native GenAI workflows.
 
-- Engineered data preprocessing and feature engineering pipelines with **Python** and **PySpark**, processing **5+ TB** of daily data for ML models
-- Applied DataOps practices: schema evolution controls, SLA-driven checkpoints, and data quality validation — achieving 99.9% data accuracy
-- Optimized legacy ETL/ELT pipelines via structured performance tuning, reducing end-to-end latency by **~40%**
+> 🔵 **Data Science Intern** — AXIS AI Initiative &nbsp;`May 2026 – Present`
+>
+> Built data preprocessing & feature engineering pipelines (Python, PySpark). Validated schemas and created dashboards to track model training metrics.
 
-</td>
-</tr>
-</table>
+> 🟢 **Electrical & Automation Intern** — Rose Yarn Co. &nbsp;`Mar – May 2026`
+>
+> Monitored PLC control systems, automation sensors, and manufacturing telemetry. Maintained electrical distribution panels.
+
+> 🔵 **Data Engineering Trainee** — DEPI (Microsoft Track) &nbsp;`Jul – Dec 2025`
+>
+> Designed streaming pipelines with Azure Event Hubs → Databricks → Delta Lake (Medallion). Orchestrated with Airflow & dbt into DuckDB. Built Snowflake models and Power BI dashboards. Tuned SQL & PySpark joins.
 
 <br/>
 
-<table>
-<tr>
-<td width="4px" bgcolor="#0078D4"></td>
-<td>
+---
 
-**Data Engineer — Digital Egypt Pioneers Initiative (DEPI)** &nbsp;`June 2025 – January 2026`<br/>
-*Microsoft-Certified Enterprise Data Engineering Training · Beni Suef, Egypt*
+<!-- ═══════════ §4 PROJECTS ═══════════ -->
 
-- Designed Python + SQL pipelines to ingest and transform **10+ TB** of complex datasets into **Azure Synapse Analytics**
-- Implemented data lineage tracking and catalog practices for full pipeline observability and audit compliance
-- Reduced query retrieval time by **~60%** through schema optimization and workload partitioning
-- Enforced RBAC, data governance policies, and SLO-aligned data quality checks across all database instances
+## 🚀 &nbsp;Featured Projects
 
-</td>
-</tr>
-</table>
-
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-<br/>
-
-<!-- ================================================================
-     §4  FEATURED PROJECTS — The Centerpiece
-     WHY: Mermaid diagrams + quantified metrics make projects feel
-     enterprise-grade and prove architectural thinking.
-     ================================================================ -->
-
-## 🚀 Featured Projects
-
-<!-- ── PROJECT 1 ── -->
+<!-- ── CDC PIPELINE ── -->
 <details open>
-<summary><h3>🏥 CareVision Live — Real-Time Patient Flow Analytics on Azure</h3></summary>
+<summary><b>🏦 Bank-Grade Real-Time CDC Pipeline</b> — <i>Fraud Detection & Financial Monitoring</i></summary>
+<br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-**Problem:** Hospital operations teams had no real-time visibility into patient flow, bed utilization, or admission bottlenecks — decisions were made on stale data hours old.
-
-**Solution:** End-to-end streaming ELT pipeline on Azure with Medallion Architecture, delivering live dashboards updated every 30 seconds.
-
-**Impact**
-- ⚡ Processed **10,000+ events/second** with zero data loss
-- 💰 Reduced Databricks compute costs by **~35%** via cluster optimization
-- ✅ Achieved **zero-defect data reliability** with Great Expectations
-- 📊 Live Power BI dashboards for hospital KPI monitoring
-
-**Stack**
-
-![Azure Event Hubs](https://img.shields.io/badge/Event_Hubs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="40%" valign="top">
-
-**Architecture**
+| | |
+|:--|:--|
+| **Problem** | Detect "Whale" transactions (≥ 55K EGP) and anomalies in real-time without overloading production databases. |
+| **Architecture** | `PostgreSQL` → `Debezium CDC` → `Kafka` → `PySpark Streaming` → `ClickHouse OLAP` → `Superset` |
+| **Results** | ⚡ Sub-second latency &nbsp;·&nbsp; 🛡️ 23-column schema validation &nbsp;·&nbsp; 📲 WhatsApp/Gmail alerts &nbsp;·&nbsp; 📊 15 live charts |
 
 ```mermaid
-%%{init:{"theme":"dark","themeVariables":{"primaryColor":"#0d1117","primaryTextColor":"#c9d1d9","lineColor":"#00d4ff","edgeLabelBackground":"#0d1117","clusterBkg":"#0a192f","clusterBorder":"#00d4ff"}}}%%
-flowchart TD
-    A(["🏥 Hospital\nSystems"]) -->|events| B[/"Azure\nEvent Hubs"/]
-    B --> C[("ADLS\nGen2")]
-    C --> D{{"Databricks\nPySpark"}}
-    D --> E["🥉 Bronze\nRaw Ingest"]
-    E --> F["🥈 Silver\nCleaned + Validated"]
-    F --> G["🥇 Gold\nAggregated KPIs"]
-    G --> H[("Snowflake")]
-    G --> I[("BigQuery")]
-    H & I --> J(["📊 Power BI\nDashboards"])
-
-    style A fill:#1a3a5c,stroke:#00d4ff,color:#fff
-    style B fill:#0078D4,stroke:#00d4ff,color:#fff
-    style C fill:#0d2137,stroke:#00d4ff,color:#7eb8d4
-    style D fill:#FF3621,stroke:#ff7b72,color:#fff
-    style E fill:#3d2400,stroke:#d29922,color:#e3b341
-    style F fill:#0d2137,stroke:#00d4ff,color:#79c0ff
-    style G fill:#1a2d00,stroke:#39d353,color:#7ee787
-    style H fill:#29B5E8,stroke:#00d4ff,color:#000
-    style I fill:#4285F4,stroke:#00d4ff,color:#fff
-    style J fill:#1a2d1a,stroke:#39d353,color:#7ee787
-```
-
-</td>
-</tr>
-</table>
-
-</details>
-
----
-
-<!-- ── PROJECT 2 ── -->
-<details>
-<summary><h3>🏙️ Smart City IoT Data Engineering Platform</h3></summary>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-**Problem:** City operations had no unified view of real-time urban data — traffic, IoT sensors, and weather feeds all operated in silos, making coordinated city management impossible.
-
-**Solution:** Production-grade streaming platform ingesting multi-source IoT data through full Medallion Architecture with Airflow orchestration and real-time observability.
-
-**Impact**
-- ⚡ Ingested city sensor data at **20,000 events/second** peak
-- 🔁 **99.99% pipeline uptime** via Datadog + Prometheus monitoring
-- 🤖 Fully automated CI/CD with GitHub Actions + Docker
-- 🗂️ Complete data lineage tracking with dbt + catalog integration
-
-**Stack**
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="40%" valign="top">
-
-**Architecture**
-
-```mermaid
-%%{init:{"theme":"dark","themeVariables":{"lineColor":"#00d4ff","clusterBkg":"#0a192f","clusterBorder":"#00d4ff"}}}%%
+%%{init:{"theme":"dark","themeVariables":{"lineColor":"#FFC800","primaryTextColor":"#c9d1d9"}}}%%
 flowchart LR
-    subgraph SRC["📡 Sources"]
-        A(["IoT"])
-        B(["Traffic"])
-        C(["Weather"])
-    end
-    subgraph ING["⚡ Ingest"]
-        D[/"Kafka"/]
-    end
-    subgraph STG["💾 Storage"]
-        E[("MinIO\nHDFS")]
-    end
-    subgraph SPARK["🔥 Spark"]
-        F["🥉 Bronze"]
-        G["🥈 Silver"]
-        H["🥇 Gold"]
-        F-->G-->H
-    end
-    subgraph OUT["📊 Output"]
-        I[("PostgreSQL")]
-        J(["Dashboards"])
-    end
+    A[("🗄️ PostgreSQL")] -->|WAL| B["Debezium"]
+    B --> C[/"Kafka"/]
+    C --> D{{"PySpark\nStreaming"}}
+    D --> E[("ClickHouse")]
+    D -.->|alert| F["📱 WhatsApp\n✉️ Gmail"]
+    E --> G["📊 Superset"]
 
-    SRC-->ING-->STG-->SPARK-->OUT
-    K(["⚙️ Airflow"])-.->|orchestrates|SPARK
-    L(["🔍 Datadog"])-.->|monitors|SPARK
-
-    style D fill:#231F20,stroke:#00d4ff,color:#fff
-    style E fill:#0d2137,stroke:#00d4ff,color:#7eb8d4
-    style F fill:#3d2400,stroke:#d29922,color:#e3b341
-    style G fill:#0d2137,stroke:#00d4ff,color:#79c0ff
-    style H fill:#1a2d00,stroke:#39d353,color:#7ee787
-    style K fill:#017CEE,stroke:#00d4ff,color:#fff
-    style L fill:#632CA6,stroke:#a371f7,color:#fff
+    style A fill:#4169E1,stroke:#58a6ff,color:#fff
+    style B fill:#A80000,stroke:#ff7b72,color:#fff
+    style C fill:#231F20,stroke:#58a6ff,color:#fff
+    style D fill:#E25A1C,stroke:#ff9900,color:#fff
+    style E fill:#FFC800,stroke:#ffd700,color:#000
+    style F fill:#25D366,stroke:#25D366,color:#000
+    style G fill:#00A699,stroke:#39d353,color:#fff
 ```
 
-</td>
-</tr>
-</table>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Debezium](https://img.shields.io/badge/Debezium-A80000?style=flat-square&logo=apache&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFC800?style=flat-square&logo=clickhouse&logoColor=black) ![Superset](https://img.shields.io/badge/Superset-00A699?style=flat-square&logo=apache&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehab-hub-0/CDC)
 
 </details>
 
 ---
 
-<!-- ── PROJECT 3 ── -->
+<!-- ── CAREVISION ── -->
 <details>
-<summary><h3>⚡ AWS Real-Time Product Recommendation Pipeline</h3></summary>
+<summary><b>🏥 CareVision — Real-Time Patient Flow Analytics</b> — <i>Azure · Medallion · Delta Lake</i></summary>
+<br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-**Problem:** E-commerce team needed personalized recommendations generated in near real-time as users browsed — batch nightly processing was leaving conversion opportunities on the table.
-
-**Solution:** Elastic AWS pipeline combining batch ML embedding generation (Glue + S3) with real-time serving via Kinesis + Lambda — all provisioned with CloudFormation.
-
-**Impact**
-- 🔄 Processed **2M+ daily user interactions** reliably
-- ⚡ Achieved **sub-50ms serverless inference** via pgvector
-- 🏗️ Reduced deployment overhead by **~70%** with CloudFormation IaC
-- 📈 Sub-second ad-hoc SQL response times on Redshift
-
-**Stack**
-
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="40%" valign="top">
-
-**Architecture**
+| | |
+|:--|:--|
+| **Problem** | Hospital ER teams relied on stale data for triage and bed allocation decisions. |
+| **Architecture** | `Azure Event Hub` → `Databricks PySpark` → `Delta Lake (Bronze/Silver/Gold)` → `Synapse` → `Power BI` |
+| **Results** | ⚡ < 0.8s processing latency &nbsp;·&nbsp; 📈 25% triage throughput improvement &nbsp;·&nbsp; 🛡️ ACID-compliant reads |
 
 ```mermaid
-%%{init:{"theme":"dark","themeVariables":{"lineColor":"#FF9900","clusterBkg":"#0a192f","clusterBorder":"#FF9900"}}}%%
-flowchart TD
-    A[("RDS\nMySQL")] --> B{{"AWS\nGlue ETL"}}
-    B --> C[("S3\nData Lake")]
-    C --> D[("Vector\nDatabase")]
-    D --> E[/"Kinesis\nStreams"/]
-    E --> F["⚡ Lambda\nInference"]
-    E --> G[/"Kinesis\nFirehose"/]
-    F --> H[("S3\nOutput")]
-    G --> H
-    H --> I[("Amazon\nRedshift")]
+%%{init:{"theme":"dark","themeVariables":{"lineColor":"#00d4ff"}}}%%
+flowchart LR
+    A["🏥 Hospital"] --> B[/"Event Hub"/]
+    B --> C{{"Databricks\nPySpark"}}
+    C --> D["🥉Bronze"] --> E["🥈Silver"] --> F["🥇Gold"]
+    F --> G[("Synapse")] --> H["📊 Power BI"]
 
-    style A fill:#232F3E,stroke:#FF9900,color:#fff
+    style B fill:#0078D4,stroke:#58a6ff,color:#fff
+    style C fill:#FF3621,stroke:#ff7b72,color:#fff
+    style D fill:#3d2400,stroke:#d29922,color:#e3b341
+    style E fill:#0d2137,stroke:#58a6ff,color:#79c0ff
+    style F fill:#1a2d00,stroke:#39d353,color:#7ee787
+    style G fill:#0089D6,stroke:#58a6ff,color:#fff
+    style H fill:#F2C811,stroke:#ffd700,color:#000
+```
+
+![Event Hub](https://img.shields.io/badge/Event_Hub-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white) ![Synapse](https://img.shields.io/badge/Synapse-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehab-hub-0/Real-time_Patient_Flow_Analytics_Healthcare)
+
+</details>
+
+---
+
+<!-- ── AWS RECOMMENDATION ── -->
+<details>
+<summary><b>⚡ Real-Time Recommendation Engine</b> — <i>AWS · Kinesis · pgvector</i></summary>
+<br/>
+
+| | |
+|:--|:--|
+| **Problem** | E-commerce platform needed personalized recommendations in < 100ms from live clickstreams. |
+| **Architecture** | `AWS Kinesis` → `Lambda` → `S3 (Parquet)` + `Glue Catalog` + `RDS pgvector` → API |
+| **Results** | ⚡ < 70ms response &nbsp;·&nbsp; 🚀 10K req/s peak &nbsp;·&nbsp; 📉 45% storage reduction (Snappy) |
+
+```mermaid
+%%{init:{"theme":"dark","themeVariables":{"lineColor":"#FF9900"}}}%%
+flowchart LR
+    A["🌐 Clicks"] --> B[/"Kinesis"/]
+    B --> C["⚡Lambda"]
+    C --> D[("S3\nParquet")]
+    C --> E[("pgvector")]
+    E --> F["< 70ms\nResponse"]
+
     style B fill:#FF9900,stroke:#d29922,color:#000
-    style C fill:#1a3d1a,stroke:#39d353,color:#7ee787
-    style D fill:#3d1a5c,stroke:#a371f7,color:#d2a8ff
-    style E fill:#FF9900,stroke:#d29922,color:#000
-    style F fill:#FF9900,stroke:#d29922,color:#000
-    style G fill:#cc7700,stroke:#d29922,color:#000
-    style H fill:#1a3d1a,stroke:#39d353,color:#7ee787
-    style I fill:#8C4FFF,stroke:#a371f7,color:#fff
+    style C fill:#FF9900,stroke:#d29922,color:#000
+    style D fill:#1a3d1a,stroke:#39d353,color:#7ee787
+    style E fill:#4169E1,stroke:#58a6ff,color:#fff
+    style F fill:#1a2d00,stroke:#39d353,color:#7ee787
 ```
 
-</td>
-</tr>
-</table>
+![Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehab-hub-0/aws-batch-streaming-pipeline)
 
 </details>
 
 ---
 
-<!-- ── PROJECT 4 ── -->
+<!-- ── SMART CITY ── -->
 <details>
-<summary><h3>🗄️ Modern Open Data Lakehouse Platform</h3></summary>
+<summary><b>🏙️ Smart City IoT Platform</b> — <i>Kafka · Spark Watermarking · Airflow</i></summary>
+<br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-**Problem:** Most learning environments don't expose engineers to true lakehouse internals — table formats, catalog versioning, and distributed SQL execution over object storage.
-
-**Solution:** Self-built production-style lakehouse using 100% open-source components: Iceberg tables, Nessie catalog, Dremio/Trino query engines, all provisioned with Terraform.
-
-**Impact**
-- 📉 Reduced data rollback time by **~50%** using Nessie Git-like versioning
-- ⚡ Improved BI query execution speed by **~45%** with Dremio + Trino
-- 🏗️ Reduced manual deployment overhead by **~70%** with Terraform
-- 🔄 Full ACID compliance + schema evolution + time-travel support
-
-**Stack**
-
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![Apache Iceberg](https://img.shields.io/badge/Iceberg-0077B5?style=flat-square&logo=apache&logoColor=white)
-![Project Nessie](https://img.shields.io/badge/Nessie-0d47a1?style=flat-square&logo=apache&logoColor=white)
-![Dremio](https://img.shields.io/badge/Dremio-2DCDE4?style=flat-square&logo=dremio&logoColor=white)
-![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="40%" valign="top">
-
-**Architecture**
+| | |
+|:--|:--|
+| **Problem** | Chaotic IoT feeds from traffic cameras, weather sensors, and emergency reports needed unified processing. |
+| **Architecture** | `Kafka Topics` → `PySpark Streaming (Watermarking)` → `PostgreSQL` · Orchestrated by `Airflow` |
+| **Results** | 🌊 15-min late data handling &nbsp;·&nbsp; ⏱️ 100% ETL automation (5-min cycles) &nbsp;·&nbsp; ⚡ 40% faster queries |
 
 ```mermaid
-%%{init:{"theme":"dark","themeVariables":{"lineColor":"#2DCDE4","clusterBkg":"#0a192f","clusterBorder":"#2DCDE4"}}}%%
-flowchart TD
-    A(["📥 Ingestion\nSources"]) --> B[("MinIO\nObject Storage")]
-    B --> C[["Apache Iceberg\nTable Format"]]
-    C --> D[["Project Nessie\nGit Catalog"]]
-    D --> E{{"Dremio\nQuery Engine"}}
-    D --> F{{"Trino\nDistributed SQL"}}
-    D --> G{{"DuckDB\nLocal Analytics"}}
-    E & F & G --> H(["📊 BI &\nAnalytics"])
+%%{init:{"theme":"dark","themeVariables":{"lineColor":"#58a6ff"}}}%%
+flowchart LR
+    subgraph src["📡 City Sources"]
+        A(["IoT"]) & B(["Traffic"]) & C(["Weather"])
+    end
+    D[/"Kafka"/] --> E{{"Spark\n+ Watermarking"}} --> F[("PostgreSQL")]
+    src --> D
+    G(["Airflow"])-.->E
 
-    style A fill:#0a192f,stroke:#2DCDE4,color:#fff
+    style D fill:#231F20,stroke:#58a6ff,color:#fff
+    style E fill:#E25A1C,stroke:#ff9900,color:#fff
+    style F fill:#4169E1,stroke:#58a6ff,color:#fff
+    style G fill:#017CEE,stroke:#58a6ff,color:#fff
+```
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehab-hub-0/Smart_City_Data_Engineering_Project)
+
+</details>
+
+---
+
+<!-- ── LAKEHOUSE ── -->
+<details>
+<summary><b>🗄️ Modern Data Lakehouse</b> — <i>Iceberg · Trino · MinIO · Airflow</i></summary>
+<br/>
+
+| | |
+|:--|:--|
+| **Problem** | Proprietary data warehouses were too costly; needed open-source ACID-compliant alternative with time-travel. |
+| **Architecture** | `MinIO (S3)` → `Apache Iceberg` → `Trino` query engine · Orchestrated by `Airflow` |
+| **Results** | 💰 40% cost reduction &nbsp;·&nbsp; ⚡ 35% faster queries vs Hive &nbsp;·&nbsp; 🕒 Schema evolution + time-travel |
+
+```mermaid
+%%{init:{"theme":"dark","themeVariables":{"lineColor":"#2DCDE4"}}}%%
+flowchart LR
+    A["📥 Sources"] --> B[("MinIO")]
+    B --> C["Iceberg"]
+    C --> D{{"Trino"}}
+    D --> E["📊 Analytics"]
+
     style B fill:#C72E49,stroke:#2DCDE4,color:#fff
     style C fill:#0077B5,stroke:#2DCDE4,color:#fff
-    style D fill:#0d47a1,stroke:#2DCDE4,color:#fff
-    style E fill:#2DCDE4,stroke:#00d4ff,color:#000
-    style F fill:#DD00A1,stroke:#2DCDE4,color:#fff
-    style G fill:#b8a800,stroke:#2DCDE4,color:#000
-    style H fill:#1a2d00,stroke:#39d353,color:#7ee787
+    style D fill:#DD00A1,stroke:#2DCDE4,color:#fff
+    style E fill:#1a2d00,stroke:#39d353,color:#7ee787
 ```
 
-</td>
-</tr>
-</table>
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) ![Iceberg](https://img.shields.io/badge/Iceberg-0077B5?style=flat-square&logo=apache&logoColor=white) ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shehab-hub-0/Modern_Data_Lakehouse)
 
 </details>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-<br/>
 
-<!-- ================================================================
-     §5  GITHUB ANALYTICS DASHBOARD
-     WHY: Arranged like an analytics dashboard — 3-column layout
-     signals data-engineer mindset applied to own profile.
-     ================================================================ -->
+---
 
-## 📊 GitHub Analytics
+<!-- ═══════════ §5 GITHUB STATS ═══════════ -->
+
+## 📊 &nbsp;GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shehab-hub-0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab-hub-0&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shehab-hub-0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehab-hub-0&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=shehab-hub-0&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7eb8d4&dates=7eb8d4" />
+<img src="https://streak-stats.demolab.com?user=shehab-hub-0&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shehab-hub-0&bg_color=0d1117&color=00d4ff&line=0a79d4&point=00d4ff&area=true&area_color=0a3d6b&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shehab-hub-0&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0d2847&hide_border=true" width="94%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="94%" alt="Contribution Snake"/>
 
 </div>
 
-<!-- ░░░ CONTRIBUTION SNAKE ░░░ -->
+<br/>
+
+---
+
+<!-- ═══════════ §6 CERTIFICATIONS ═══════════ -->
+
+## 🏅 &nbsp;Certifications
+
+| Badge | Certification | Issuer | Date | Verify |
+|:---:|:---|:---|:---:|:---:|
+| ![Google](https://img.shields.io/badge/-4285F4?style=flat-square&logo=google&logoColor=white) | **Google Data Analytics Specialization** | Coursera / Google | May 2026 | [🔗](https://www.coursera.org/account/accomplishments/specialization/XZOFPXP3AIS5) |
+| ![IBM](https://img.shields.io/badge/-052FAD?style=flat-square&logo=ibm&logoColor=white) | **IBM Data Warehouse Engineer** | Coursera / IBM | Apr 2026 | [🔗](https://www.coursera.org/account/accomplishments/professional-cert/5PWY6EI5OTPQ) |
+| ![IBM](https://img.shields.io/badge/-052FAD?style=flat-square&logo=ibm&logoColor=white) | **IBM Data Engineering Professional** | Coursera / IBM | Feb 2026 | [🔗](https://www.coursera.org/account/accomplishments/professional-cert/D0HKIMS8AKO4) |
+| ![DataCamp](https://img.shields.io/badge/-03EF62?style=flat-square&logo=datacamp&logoColor=black) | **Data Engineer Career Track** | DataCamp | Mar 2026 | [🔗](https://www.datacamp.com/certificate/DE0019416075200) |
+| ![GCP](https://img.shields.io/badge/-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | **Cloud & AI on GCP** | Google Developers & ITI | May 2026 | [🔗](https://drive.google.com/file/d/1bJfIzBoi6maS6R7qoOvZEQP9WgyRlVWv/view?usp=sharing) |
+| ![Microsoft](https://img.shields.io/badge/-0078D4?style=flat-square&logo=microsoft&logoColor=white) | **Microsoft Data Engineer Program** | DEPI | Dec 2025 | [🔗](https://drive.google.com/file/d/1B3OGEbotKJgFNuBabv_9X128z5Znjqra/view?usp=sharing) |
+| ![Airflow](https://img.shields.io/badge/-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) | **Apache Airflow 3 Fundamentals** | Astronomer / Credly | Oct 2025 | [🔗](https://www.credly.com/badges/a5cb199f-7f4d-4035-88f0-fbc003e5638a) |
+
+<br/>
+
+---
+
+<!-- ═══════════ §7 YOUTUBE ═══════════ -->
+
+## 📺 &nbsp;Latest from Schema بالعربي
+
 <div align="center">
-<br/>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
-</div>
 
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-<br/>
-
-<!-- ================================================================
-     §6  CERTIFICATIONS — Premium Cards
-     WHY: IBM + DataCamp + Astronomer are recognizable to tech
-     recruiters. Dates prove recency — all within 12 months.
-     ================================================================ -->
-
-## 🏅 Certifications
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-<br/>
-<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/><br/><br/>
-<b>Data Warehouse Engineer</b><br/>
-<sub>Coursera / IBM</sub><br/>
-<sub>April 2026</sub><br/><br/>
-<img src="https://img.shields.io/badge/✅_Verified-00d4ff?style=flat-square&logoColor=white"/>
-</td>
-
-<td align="center" width="20%">
-<br/>
-<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/><br/><br/>
-<b>Data Engineering Professional</b><br/>
-<sub>Coursera / IBM</sub><br/>
-<sub>February 2026</sub><br/><br/>
-<img src="https://img.shields.io/badge/✅_Verified-00d4ff?style=flat-square&logoColor=white"/>
-</td>
-
-<td align="center" width="20%">
-<br/>
-<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black"/><br/><br/>
-<b>Data Engineer Professional</b><br/>
-<sub>DataCamp</sub><br/>
-<sub>March 2026</sub><br/><br/>
-<img src="https://img.shields.io/badge/✅_Verified-00d4ff?style=flat-square&logoColor=white"/>
-</td>
-
-<td align="center" width="20%">
-<br/>
-<img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/><br/><br/>
-<b>Data Engineer Certificate</b><br/>
-<sub>Egypt Pioneers (DEPI)</sub><br/>
-<sub>January 2026</sub><br/><br/>
-<img src="https://img.shields.io/badge/✅_Verified-00d4ff?style=flat-square&logoColor=white"/>
-</td>
-
-<td align="center" width="20%">
-<br/>
-<img src="https://img.shields.io/badge/Astronomer-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/><br/><br/>
-<b>Airflow 3 Fundamentals</b><br/>
-<sub>Astronomer / Credly</sub><br/>
-<sub>October 2025</sub><br/><br/>
-<img src="https://img.shields.io/badge/✅_Verified-00d4ff?style=flat-square&logoColor=white"/>
-</td>
-
-</tr>
-</table>
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-Schema_%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SchemaBilArabi)
 
 </div>
 
-<br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+| | Tutorial | Topic |
+|:---:|:---|:---|
+| ▶️ | [**Microsoft Fabric Full Project**](https://youtu.be/an2cWuJbi98) | End-to-End Sales Data Engineering & Analytics |
+| ▶️ | [**Modern Data Lakehouse Architecture**](https://youtu.be/mk15S0zEEyQ) | Apache Spark · MinIO · Nessie · Dremio · ClickHouse |
+| ▶️ | [**WSL & Docker for Data Engineering**](https://youtu.be/Ne7DCyxus8s?si=CBQ5XH2eCi9iPBsB) | Setting Up a Production-Grade Local Dev Environment |
+
 <br/>
 
-<!-- ================================================================
-     §7  ROADMAP — Futuristic Timeline
-     WHY: Roadmaps signal self-direction and planning — two qualities
-     graduate programs and DE leads specifically look for.
-     ================================================================ -->
+---
 
-## 🗺️ Learning Roadmap
+<!-- ═══════════ §8 ROADMAP ═══════════ -->
+
+## 🗺️ &nbsp;Learning Roadmap
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### ✅ Completed
+### ✅ &nbsp;Done
 
 ```
- Python (OOP · Advanced)
- SQL (Window Functions · CTEs)
- Apache Spark & PySpark
- Apache Kafka (streaming)
- Apache Airflow (orchestration)
- dbt (transformation layer)
- Great Expectations (DQ)
- Delta Lake & Apache Iceberg
- Medallion Architecture
- Snowflake · Redshift · BigQuery
- Azure Synapse Analytics
- AWS Glue · Kinesis · Lambda
- Docker · Terraform
- GitHub Actions · GitLab CI
- Datadog · Prometheus
- Power BI Dashboards
- DataOps · Data Governance
- Data Lineage & Cataloging
+Python (Advanced · OOP · Async)
+SQL (CTEs · Window Funcs · Tuning)
+Apache Spark & PySpark Streaming
+Apache Kafka & Debezium CDC
+Apache Airflow DAGs
+dbt & DuckDB Transformation
+Delta Lake & Apache Iceberg
+ClickHouse OLAP
+Medallion Architecture
+Azure Databricks · Synapse
+AWS Glue · Kinesis · Lambda
+Docker · Terraform · Linux
+Superset & Power BI
 ```
 
 </td>
 <td width="33%" valign="top">
 
-### 🔄 In Progress
+### 🔄 &nbsp;In Progress
 
 ```
- Databricks Spark Certification
-   └─ Delta Live Tables
-   └─ Unity Catalog
-   └─ MLflow Integration
+Databricks Spark Certification
+ ├─ Delta Live Tables
+ ├─ Unity Catalog
+ └─ MLflow
 
- Advanced Streaming Patterns
-   └─ Exactly-once semantics
-   └─ Watermarking & windowing
-   └─ Stateful processing
+AWS Machine Learning & GenAI
+ ├─ Prompt Engineering
+ ├─ Bedrock & SageMaker
+ └─ RAG Architecture
 
- Microsoft Fabric
-   └─ OneLake architecture
-   └─ Real-Time Analytics
-   └─ Fabric pipelines
+Microsoft Fabric
+ ├─ OneLake / DirectLake
+ └─ Real-Time Analytics
 
- Kubernetes for Data Workloads
-   └─ Spark on K8s
-   └─ Airflow on K8s (KubernetesExecutor)
+Advanced Streaming
+ ├─ Exactly-Once Semantics
+ └─ Stateful Processing
 ```
 
 </td>
 <td width="33%" valign="top">
 
-### 🚀 Next Goals
+### 🚀 &nbsp;Next
 
 ```
- Azure Data Engineer Associate
-   └─ DP-203 Certification
-   └─ ADF advanced patterns
+Azure DP-203 Certification
+Databricks Certified Professional
 
- Apache Flink
-   └─ Stateful stream processing
-   └─ CEP (Complex Event Processing)
+Apache Flink
+ ├─ Stateful Processing
+ └─ Complex Event Processing
 
- Data Mesh Architecture
-   └─ Domain-oriented ownership
-   └─ Data products pattern
+MLOps Integration
+ ├─ Feature Stores (Feast)
+ └─ Pipeline Drift Detection
 
- MLOps Integration
-   └─ DE + ML pipeline design
-   └─ Feature stores (Feast)
-   └─ Pipeline monitoring
-
- Open-Source Contribution
-   └─ Apache Airflow providers
-   └─ dbt community packages
+Open-Source Contributions
+ ├─ Airflow Core & Providers
+ └─ dbt Community Packages
 ```
 
 </td>
@@ -776,42 +488,35 @@ flowchart TD
 </table>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-<br/>
 
-<!-- ================================================================
-     §8  CONTACT — Landing Page CTA
-     WHY: A clear, professional call-to-action converts profile
-     visitors into actual outreach. Simple > clever here.
-     ================================================================ -->
+---
 
-## 📬 Let's Build Something
+<!-- ═══════════ §9 CONTACT ═══════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Open+to+Junior+DE+Roles+%26+Graduate+Programs;Available+for+Freelance+Data+Engineering+Projects;Always+happy+to+collaborate+on+open-source" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Open+to+junior+%26+mid+data+engineering+roles;Available+for+cloud+pipeline+consulting;Let's+collaborate+on+open-source+projects" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-ahmed-793780343)&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahbahmed56p@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://shehab-hub-0.github.io/Shehab.github1.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehab-eldinahmed/)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahbahmed56p@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Work-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://shehab-hub-0.github.io/Shehab.github1.io/)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-Schema_%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SchemaBilArabi)
 
-<br/><br/>
+<br/>
 
-> 📍 Beni Suef, Egypt &nbsp;·&nbsp; Open to Remote &nbsp;·&nbsp; +20 128 991 0575
+📍 Beni Suef, Egypt · Open to Remote & Relocation · 📞 +20 101 145 7319
 
 </div>
 
 <br/>
 
-<!-- ░░░ FOOTER BANNER ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,061020,40,0a192f,100,0d2137&height=120&section=footer&text=Thanks+for+visiting&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d2847,100:0a0f1a&height=100&section=footer" width="100%"/>
 
 <div align="center">
 <sub>
-<img src="https://img.shields.io/badge/Last_Updated-May_2026-00d4ff?style=flat-square&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Built_with-❤️_and_PySpark-E25A1C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Updated-July_2026-58a6ff?style=flat-square"/> &nbsp;
+  <img src="https://img.shields.io/badge/Built_with-❤️_+_PySpark-E25A1C?style=flat-square"/>
 </sub>
 </div>
